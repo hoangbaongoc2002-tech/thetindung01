@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank iPay - Cổng Hỗ Trợ Trực Tuyến",
+  "description": "Hướng dẫn đóng thẻ tín dụng và mở phong toả dành cho khách hàng phát hành thẻ online bằng hình thức cầm cố sổ tiết kiệm tại VietinBank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
